@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .h { font-size: 40px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #5E6974; }
+    .th { font-size: 19px; font-weight: 700; fill: #2A5E97; }
+    .td { font-size: 18px; fill: #43505B; }
+  </style>
+  <rect width="1600" height="900" fill="#F4F9FF"/>
+  <text class="h" x="120" y="110">Структура первого ответа клиенту</text>
+  <text class="sub" x="120" y="150">Подтверждаем ситуацию, объясняем статус и фиксируем следующий шаг.</text>
+  <rect x="120" y="220" width="1360" height="520" rx="24" fill="#FFFFFF" stroke="#CFE0F3" stroke-width="2"/>
+  <rect x="140" y="250" width="1320" height="60" fill="#E7F1FC"/>
+  <text class="th" x="162" y="288">Подтверждаем</text>
+  <text class="th" x="470" y="288">Объясняем</text>
+  <text class="th" x="770" y="288">Следующий шаг</text>
+  <text class="th" x="1110" y="288">Ожидание</text>
+  <line x1="291" y1="250" x2="291" y2="710" stroke="#CFE0F3"/>
+  <line x1="595" y1="250" x2="595" y2="710" stroke="#CFE0F3"/>
+  <line x1="915" y1="250" x2="915" y2="710" stroke="#CFE0F3"/>
+  <text class="td" x="162" y="370">Что увидели и приняли</text>
+  <text class="td" x="470" y="370">Что происходит сейчас</text>
+  <text class="td" x="770" y="370">Что делаем дальше</text>
+  <text class="td" x="1110" y="370">Когда вернемся и что нужно от клиента</text>
+</svg>

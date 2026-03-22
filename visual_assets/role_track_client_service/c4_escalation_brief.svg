@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .h { font-size: 40px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #5E6974; }
+    .th { font-size: 20px; font-weight: 700; fill: #2A5E97; }
+    .td { font-size: 18px; fill: #43505B; }
+  </style>
+  <rect width="1600" height="900" fill="#F4F9FF"/>
+  <text class="h" x="120" y="110">Бриф эскалации для смежной команды</text>
+  <text class="sub" x="120" y="150">Эскалация должна быть короткой, полной и пригодной для действия.</text>
+  <rect x="120" y="220" width="1360" height="520" rx="24" fill="#FFFFFF" stroke="#CFE0F3" stroke-width="2"/>
+  <rect x="150" y="260" width="260" height="210" rx="20" fill="#EFF6FF"/>
+  <text class="th" x="170" y="294">Что произошло</text>
+  <text class="td" x="170" y="332">Симптом и эффект</text>
+  <text class="td" x="170" y="364">Кого затронуло</text>
+  <text class="td" x="170" y="396">Когда началось</text>
+  <rect x="435" y="260" width="260" height="210" rx="20" fill="#EFF6FF"/>
+  <text class="th" x="455" y="294">Что проверили</text>
+  <text class="td" x="455" y="332">Повторили ли баг</text>
+  <text class="td" x="455" y="364">Какие шаги прошли</text>
+  <text class="td" x="455" y="396">Что исключили</text>
+  <rect x="720" y="260" width="260" height="210" rx="20" fill="#EFF6FF"/>
+  <text class="th" x="740" y="294">Что уже известно</text>
+  <text class="td" x="740" y="332">Контекст клиента</text>
+  <text class="td" x="740" y="364">Ссылка на тикет</text>
+  <text class="td" x="740" y="396">История коммуникации</text>
+  <rect x="1005" y="260" width="260" height="210" rx="20" fill="#EFF6FF"/>
+  <text class="th" x="1025" y="294">Что нужно</text>
+  <text class="td" x="1025" y="332">Какое действие ждем</text>
+  <text class="td" x="1025" y="364">Какой срок важен</text>
+  <text class="td" x="1025" y="396">Какой риск для клиента</text>
+</svg>

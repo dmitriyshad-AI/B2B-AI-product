@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .h { font-size: 40px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #5E6974; }
+    .th { font-size: 19px; font-weight: 700; fill: #2A5E97; }
+    .td { font-size: 18px; fill: #43505B; }
+  </style>
+  <rect width="1600" height="900" fill="#F4F9FF"/>
+  <text class="h" x="120" y="110">Краткая выжимка по тикету и клиенту</text>
+  <text class="sub" x="120" y="150">Нужен контекст: кто клиент, что обещали, где риск и что важно сейчас.</text>
+  <rect x="120" y="220" width="1360" height="520" rx="24" fill="#FFFFFF" stroke="#CFE0F3" stroke-width="2"/>
+  <rect x="140" y="250" width="1320" height="60" fill="#E7F1FC"/>
+  <text class="th" x="162" y="288">Кто клиент</text>
+  <text class="th" x="390" y="288">История</text>
+  <text class="th" x="620" y="288">Что обещали</text>
+  <text class="th" x="880" y="288">Риск</text>
+  <text class="th" x="1070" y="288">Что важно сейчас</text>
+  <text class="th" x="1320" y="288">Источник</text>
+  <line x1="251" y1="250" x2="251" y2="710" stroke="#CFE0F3"/>
+  <line x1="480" y1="250" x2="480" y2="710" stroke="#CFE0F3"/>
+  <line x1="725" y1="250" x2="725" y2="710" stroke="#CFE0F3"/>
+  <line x1="950" y1="250" x2="950" y2="710" stroke="#CFE0F3"/>
+  <line x1="1170" y1="250" x2="1170" y2="710" stroke="#CFE0F3"/>
+  <text class="td" x="162" y="370">Аккаунт и сегмент</text>
+  <text class="td" x="390" y="370">Что уже происходило</text>
+  <text class="td" x="620" y="370">Какие обещания давали</text>
+  <text class="td" x="880" y="370">Где можем ошибиться</text>
+  <text class="td" x="1070" y="370">Что мешает клиенту</text>
+  <text class="td" x="1320" y="370">Где это найдено</text>
+</svg>

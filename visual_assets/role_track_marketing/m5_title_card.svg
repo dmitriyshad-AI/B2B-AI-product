@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .eyebrow { font-size: 24px; font-weight: 600; fill: #9A6A1D; }
+    .h { font-size: 52px; font-weight: 700; }
+    .sub { font-size: 24px; fill: #56626D; }
+  </style>
+  <rect width="1600" height="900" fill="#FFF8F1"/>
+  <text class="eyebrow" x="120" y="170">Модуль M5</text>
+  <text class="h" x="120" y="270">Конкурентный и клиентский скан</text>
+  <text class="sub" x="120" y="330">Скан нужен, чтобы увидеть решение, а не собрать лишние факты.</text>
+</svg>

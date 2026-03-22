@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .h { font-size: 40px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #5E6974; }
+    .th { font-size: 20px; font-weight: 700; fill: #8A5A14; }
+    .td { font-size: 18px; fill: #43505B; }
+  </style>
+  <rect width="1600" height="900" fill="#FFF8F1"/>
+  <text class="h" x="120" y="110">Карта конкурентного и клиентского скана</text>
+  <text class="sub" x="120" y="150">Короткая выжимка должна показывать сигналы и окно для действия.</text>
+  <rect x="120" y="220" width="1360" height="520" rx="24" fill="#FFFFFF" stroke="#EBD9C3" stroke-width="2"/>
+  <rect x="150" y="260" width="290" height="200" rx="20" fill="#FDF4E8"/>
+  <text class="th" x="170" y="294">Кого смотрим</text>
+  <text class="td" x="170" y="332">Конкурент / сегмент</text>
+  <text class="td" x="170" y="364">Канал / продукт</text>
+  <text class="td" x="170" y="396">Контекст задачи</text>
+  <rect x="465" y="260" width="290" height="200" rx="20" fill="#FDF4E8"/>
+  <text class="th" x="485" y="294">Что обещают</text>
+  <text class="td" x="485" y="332">Главная формулировка</text>
+  <text class="td" x="485" y="364">Какая боль</text>
+  <text class="td" x="485" y="396">Какой результат</text>
+  <rect x="780" y="260" width="290" height="200" rx="20" fill="#FDF4E8"/>
+  <text class="th" x="800" y="294">Чем доказывают</text>
+  <text class="td" x="800" y="332">Кейсы и цифры</text>
+  <text class="td" x="800" y="364">Механика и процесс</text>
+  <text class="td" x="800" y="396">Социальное доказательство</text>
+  <rect x="1095" y="260" width="290" height="200" rx="20" fill="#FDF4E8"/>
+  <text class="th" x="1115" y="294">Где окно для нас</text>
+  <text class="td" x="1115" y="332">Что у них слабее</text>
+  <text class="td" x="1115" y="364">Как мы отличаемся</text>
+  <text class="td" x="1115" y="396">Что проверить отдельно</text>
+</svg>

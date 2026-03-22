@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .h { font-size: 40px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #5E6974; }
+    .th { font-size: 19px; font-weight: 700; fill: #8A5A14; }
+    .td { font-size: 18px; fill: #43505B; }
+  </style>
+  <rect width="1600" height="900" fill="#FFF8F1"/>
+  <text class="h" x="120" y="110">Канва маркетингового брифа</text>
+  <text class="sub" x="120" y="150">Цель, сегмент, сообщение, формат, доказательства, ограничения и следующий шаг.</text>
+  <rect x="120" y="220" width="1360" height="520" rx="24" fill="#FFFFFF" stroke="#EBD9C3" stroke-width="2"/>
+  <rect x="140" y="250" width="1320" height="60" fill="#F8E8D4"/>
+  <text class="th" x="162" y="288">Цель</text>
+  <text class="th" x="340" y="288">Сегмент</text>
+  <text class="th" x="520" y="288">Сообщение</text>
+  <text class="th" x="735" y="288">Формат</text>
+  <text class="th" x="920" y="288">Доказательства</text>
+  <text class="th" x="1145" y="288">Ограничения</text>
+  <text class="th" x="1340" y="288">Следующий шаг</text>
+  <line x1="226" y1="250" x2="226" y2="710" stroke="#EBD9C3"/>
+  <line x1="405" y1="250" x2="405" y2="710" stroke="#EBD9C3"/>
+  <line x1="602" y1="250" x2="602" y2="710" stroke="#EBD9C3"/>
+  <line x1="802" y1="250" x2="802" y2="710" stroke="#EBD9C3"/>
+  <line x1="1007" y1="250" x2="1007" y2="710" stroke="#EBD9C3"/>
+  <line x1="1217" y1="250" x2="1217" y2="710" stroke="#EBD9C3"/>
+  <text class="td" x="162" y="370">Какой результат нужен</text>
+  <text class="td" x="340" y="370">Для кого делаем</text>
+  <text class="td" x="520" y="370">Что хотим донести</text>
+  <text class="td" x="735" y="370">Какой актив нужен</text>
+  <text class="td" x="920" y="370">Чем подтверждаем</text>
+  <text class="td" x="1145" y="370">Что нельзя обещать</text>
+  <text class="td" x="1340" y="370">Что делаем дальше</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .h { font-size: 40px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #5E6974; }
+    .th { font-size: 19px; font-weight: 700; fill: #2A5E97; }
+    .td { font-size: 18px; fill: #43505B; }
+  </style>
+  <rect width="1600" height="900" fill="#F4F9FF"/>
+  <text class="h" x="120" y="110">Weekly review сервисных сигналов</text>
+  <text class="sub" x="120" y="150">Один экран для повторяющихся проблем, bottleneck и решений недели.</text>
+  <rect x="120" y="220" width="1360" height="520" rx="24" fill="#FFFFFF" stroke="#CFE0F3" stroke-width="2"/>
+  <rect x="140" y="250" width="1320" height="60" fill="#E7F1FC"/>
+  <text class="th" x="162" y="288">Что повторяется</text>
+  <text class="th" x="450" y="288">Bottleneck</text>
+  <text class="th" x="700" y="288">Риск SLA</text>
+  <text class="th" x="960" y="288">Что разбираем</text>
+  <text class="th" x="1220" y="288">Решение недели</text>
+  <line x1="281" y1="250" x2="281" y2="710" stroke="#CFE0F3"/>
+  <line x1="550" y1="250" x2="550" y2="710" stroke="#CFE0F3"/>
+  <line x1="805" y1="250" x2="805" y2="710" stroke="#CFE0F3"/>
+  <line x1="1065" y1="250" x2="1065" y2="710" stroke="#CFE0F3"/>
+  <text class="td" x="162" y="370">Какие типы обращений копятся</text>
+  <text class="td" x="450" y="370">Где застревает процесс</text>
+  <text class="td" x="700" y="370">Что может сорвать обещание клиенту</text>
+  <text class="td" x="960" y="370">Какие случаи требуют разбора</text>
+  <text class="td" x="1220" y="370">Что меняем в сервисе</text>
+</svg>
