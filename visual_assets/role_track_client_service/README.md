@@ -2,8 +2,8 @@
 
 Этот пакет собран только на базе:
 - `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/ролевой_трек_клиентский_сервис_и_сопровождение.md`
-- `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/ролевой_трек_клиентский_сервис_и_сопровождение_пакет_lms.md`
-- `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/ролевой_трек_клиентский_сервис_и_сопровождение_материалы_для_скачивания.md`
+- `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/ролевой_трек_клиентский_сервис_и_сопровождение_манифест_lms.csv`
+- `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/downloadables/role_track_client_service/README.md`
 
 ## Что внутри
 

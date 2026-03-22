@@ -2,8 +2,8 @@
 
 Этот пакет собран только на базе:
 - `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/ролевой_трек_маркетинг_контент_и_коммуникации.md`
-- `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/ролевой_трек_маркетинг_контент_и_коммуникации_пакет_lms.md`
-- `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/ролевой_трек_маркетинг_контент_и_коммуникации_материалы_для_скачивания.md`
+- `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/ролевой_трек_маркетинг_контент_и_коммуникации_манифест_lms.csv`
+- `/Users/dmitrijfabarisov/Projects/Dmitriy+Arseniy AI corp course/downloadables/role_track_marketing/README.md`
 
 ## Что внутри
 
