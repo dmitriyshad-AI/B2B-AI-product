@@ -1,0 +1,8 @@
+section_id,section_title,asset_id,artifact
+M1,Собрать маркетинговый бриф,rt-mkt-brief-canvas,канва маркетингового брифа
+M2,Собрать карту сообщения,rt-mkt-message-map,карта сообщения и сегмента
+M3,Переработать один исходник в несколько активов,rt-mkt-content-repurpose-matrix,матрица переработки контента
+M4,Выпустить первый маркетинговый черновик,rt-mkt-draft-structure,шаблон маркетингового черновика
+M5,Сделать конкурентный и клиентский скан,rt-mkt-competitor-client-scan,карта конкурентного и клиентского скана
+M6,Сделать weekly review по output,rt-mkt-weekly-output-review,шаблон обзора маркетингового output
+RT-mkt-project,Итоговый мини-проект,rt-mkt-project-pack,полный маркетинговый сценарий

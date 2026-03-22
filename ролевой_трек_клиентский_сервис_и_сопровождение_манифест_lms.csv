@@ -1,0 +1,8 @@
+section_id,section_title,asset_id,artifact
+C1,Разобрать обращение и сделать triage,rt-cs-triage-card,карта triage и приоритета обращения
+C2,Войти в контекст по тикету,rt-cs-ticket-summary,шаблон выжимки контекста по тикету
+C3,Выпустить первый ответ,rt-cs-first-response-template,шаблон первого ответа
+C4,Сделать эскалацию,rt-cs-escalation-brief,шаблон эскалации
+C5,Сделать сервисный follow-up,rt-cs-followup-template,шаблон сервисного follow-up
+C6,Собрать weekly review сервиса,rt-cs-service-review-sheet,таблица недельного обзора сервиса
+RT-cs-project,Итоговый мини-проект,rt-cs-project-pack,полный сервисный сценарий

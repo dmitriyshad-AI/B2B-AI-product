@@ -1,0 +1,8 @@
+lesson_id,lesson_title,required_asset,artifact
+C1,Разобрать обращение и сделать triage,rt-cs-triage-card,карта triage и приоритета обращения
+C2,Выпустить первый ответ,rt-cs-first-response-template,шаблон первого ответа
+C3,Сделать эскалацию,rt-cs-escalation-brief,шаблон эскалации
+C4,Закрыть кейс письмом по решению,rt-cs-followup-template,шаблон сервисного follow-up
+C5,Сделать карточку базы знаний,rt-cs-ticket-summary,карточка базы знаний и служебная выжимка
+C6,Собрать weekly review сервиса,rt-cs-service-review-sheet,таблица недельного обзора сервиса
+manager,Управленческий контур,rt-cs-manager-scorecard,управленческий scorecard пилота
