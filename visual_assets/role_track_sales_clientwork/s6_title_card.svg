@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #231F17; }
+    .eyebrow { font-size: 24px; font-weight: 600; fill: #7F5E18; }
+    .h { font-size: 52px; font-weight: 700; }
+    .sub { font-size: 24px; fill: #6A665F; }
+  </style>
+  <rect width="1600" height="900" fill="#FFFBEF"/>
+  <text class="eyebrow" x="120" y="170">Модуль S6</text>
+  <text class="h" x="120" y="270">Обзор воронки</text>
+  <text class="sub" x="120" y="330">Портфель сделок важнее ощущения, что “вроде что-то движется”.</text>
+</svg>

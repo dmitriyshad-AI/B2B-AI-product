@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="r1final" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF7F4"/>
+      <stop offset="1" stop-color="#F8F3E8"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .label { font-size: 22px; font-weight: 700; letter-spacing: 1px; fill: #0F766E; }
+    .quote { font-size: 50px; font-weight: 700; }
+    .body { font-size: 24px; fill: #44535F; }
+    .card-title { font-size: 22px; font-weight: 700; fill: #0A5C56; }
+    .card-body { font-size: 22px; fill: #34424F; }
+    .small { font-size: 18px; fill: #62717E; }
+  </style>
+  <rect width="1600" height="900" fill="url(#r1final)"/>
+  <rect x="88" y="88" width="924" height="724" rx="38" fill="#FFFDF8" stroke="#D5E8E4" stroke-width="2"/>
+  <text class="label" x="132" y="146">R1 / FINAL CARD</text>
+  <text class="quote" x="132" y="254">Задача существует только тогда,</text>
+  <text class="quote" x="132" y="320">когда у нее есть outcome,</text>
+  <text class="quote" x="132" y="386">ограничения, владелец</text>
+  <text class="quote" x="132" y="452">и точка проверки.</text>
+  <text class="body" x="132" y="548">До этого это не проект, а пожелание.</text>
+  <text class="small" x="132" y="720">AI помогает собрать черновик управленческого разговора.</text>
+  <text class="small" x="132" y="748">Ответственность за запуск и приоритеты остается у человека.</text>
+
+  <rect x="1050" y="132" width="462" height="260" rx="30" fill="#FFFFFF" stroke="#B9DDD7" stroke-width="2"/>
+  <text class="card-title" x="1090" y="184">Домашнее действие</text>
+  <text class="card-body" x="1090" y="236">Возьмите одну реальную задачу</text>
+  <text class="card-body" x="1090" y="270">запуска и соберите canvas</text>
+  <text class="card-body" x="1090" y="304">с полями owner, checkpoint</text>
+  <text class="card-body" x="1090" y="338">и risk.</text>
+
+  <rect x="1050" y="430" width="462" height="200" rx="30" fill="#0F766E"/>
+  <text x="1090" y="484" style="font-family:'IBM Plex Sans','Arial',sans-serif;font-size:22px;font-weight:700;fill:#E7FAF7;">Ключ к модулю</text>
+  <text x="1090" y="534" style="font-family:'IBM Plex Sans','Arial',sans-serif;font-size:22px;fill:#F7FFFD;">Owner + checkpoint</text>
+  <text x="1090" y="568" style="font-family:'IBM Plex Sans','Arial',sans-serif;font-size:22px;fill:#F7FFFD;">переводят задачу из хаоса</text>
+  <text x="1090" y="602" style="font-family:'IBM Plex Sans','Arial',sans-serif;font-size:22px;fill:#F7FFFD;">в управляемый запуск.</text>
+
+  <rect x="1050" y="664" width="462" height="112" rx="26" fill="#FFFDF8" stroke="#D5E8E4" stroke-width="2"/>
+  <text class="card-title" x="1090" y="714">Мост дальше</text>
+  <text class="small" x="1090" y="752">Следующий шаг: убрать шум из update и оставить только сигнал.</text>
+</svg>

@@ -1,0 +1,10 @@
+item_id,section,order,title,item_type,downloadable_id,completion_rule
+rt_sales_s1,S1,1,"Готовиться к клиентской встрече так, чтобы разговор двигал сделку",lesson,rt-sales-discovery-prep-canvas,"view+self_check"
+rt_sales_s2,S2,2,"Выпускать письмо по итогам встречи, которое не теряет движение сделки",lesson,rt-sales-followup-letter-template,"view+self_check"
+rt_sales_s3,S3,3,"Отвечать на возражения без шаблонной воды",lesson,rt-sales-objection-response-map,"view+self_check"
+rt_sales_s4,S4,4,"Делать первый черновик КП быстрее и без пустого листа",lesson,rt-sales-proposal-skeleton,"view+self_check"
+rt_sales_s5,S5,5,"Вести CRM так, чтобы она помогала продавать",lesson,rt-sales-crm-note-standard,"view+self_check"
+rt_sales_s6,S6,6,"Делать обзор воронки, по которому можно управлять",lesson,rt-sales-pipeline-review-sheet,"view+self_check"
+rt_sales_project,RT-sales-project,7,"Итоговый мини-проект ролевого трека",assignment,none,"submission_required"
+rt_sales_safe_rules,APP-A,8,"Правила безопасного использования AI в клиентской коммуникации",resource,rt-sales-client-safe-use-rules,"view"
+rt_sales_manager_scorecard,APP-B,9,"Управленческий scorecard коммерческого пилота",resource,rt-sales-manager-scorecard,"view"

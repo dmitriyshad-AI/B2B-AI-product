@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #182233; }
+    .eyebrow { font-size: 24px; font-weight: 600; fill: #2B5A89; }
+    .h { font-size: 52px; font-weight: 700; }
+    .sub { font-size: 24px; fill: #5B6675; }
+  </style>
+  <rect width="1600" height="900" fill="#F4F8FD"/>
+  <text class="eyebrow" x="120" y="170">Модуль S5</text>
+  <text class="h" x="120" y="270">Стандарт CRM-заметки</text>
+  <text class="sub" x="120" y="330">CRM должна помогать продавать, а не мешать.</text>
+</svg>

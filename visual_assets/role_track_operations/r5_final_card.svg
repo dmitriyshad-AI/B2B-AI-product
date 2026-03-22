@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .q { font-size: 54px; font-weight: 700; }
+    .s { font-size: 28px; fill: #53606C; }
+    .hw { font-size: 26px; font-weight: 700; fill: #3E5F8E; }
+  </style>
+  <rect width="1600" height="900" fill="#F3F6FB"/>
+  <rect x="120" y="120" width="1360" height="660" rx="34" fill="#FFFDF9" stroke="#D9E1EE" stroke-width="2"/>
+  <text class="q" x="170" y="250">Проблема обычно не в модели.</text>
+  <text class="s" x="170" y="320">Проблема в том, что у человека нет системы, которая превращает удачный опыт в повторяемый workflow.</text>
+  <rect x="170" y="450" width="1260" height="160" rx="24" fill="#EAF0FA" stroke="#C9D7EE" stroke-width="2"/>
+  <text class="hw" x="210" y="520">Сразу после урока:</text>
+  <text class="s" x="210" y="570">Выберите три повторяющихся процесса и соберите одну pipeline table.</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="r4bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F0E8"/>
+      <stop offset="1" stop-color="#F2F7EC"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .eyebrow { font-size: 24px; font-weight: 700; letter-spacing: 1.4px; fill: #5F7B22; }
+    .title { font-size: 60px; font-weight: 700; }
+    .subtitle { font-size: 28px; fill: #4B5B68; }
+    .formula { font-size: 28px; font-weight: 700; fill: #4C641A; }
+    .chip { font-size: 22px; font-weight: 600; fill: #4C641A; }
+  </style>
+  <rect width="1600" height="900" fill="url(#r4bg)"/>
+  <rect x="96" y="94" width="1408" height="712" rx="38" fill="#FFFDF9" stroke="#DCE3C9" stroke-width="2"/>
+  <rect x="128" y="128" width="170" height="38" rx="19" fill="#EBF4D7"/>
+  <text class="eyebrow" x="144" y="154">ROLE TRACK / MODULE R4</text>
+  <text class="title" x="128" y="270">Сравнивать варианты</text>
+  <text class="title" x="128" y="346">и риски без самообмана</text>
+  <text class="subtitle" x="128" y="412">AI структурирует trade-offs, но не выбирает за вас</text>
+  <rect x="128" y="490" width="1100" height="110" rx="28" fill="#F2F8E6" stroke="#D0E3A5" stroke-width="2"/>
+  <text class="formula" x="164" y="556">Option -&gt; Benefit -&gt; Cost -&gt; Risk -&gt; Mitigation -&gt; Fit</text>
+  <rect x="128" y="648" width="330" height="64" rx="22" fill="#FFFDF9" stroke="#8BAA3A" stroke-width="2"/>
+  <rect x="484" y="648" width="420" height="64" rx="22" fill="#FFFDF9" stroke="#8BAA3A" stroke-width="2"/>
+  <text class="chip" x="156" y="688">Кейс: RT-OPS-CASE-04</text>
+  <text class="chip" x="512" y="688">Артефакт: options and risk memo</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #2A1B1C; }
+    .h { font-size: 44px; font-weight: 700; }
+    .sub { font-size: 24px; fill: #746163; }
+  </style>
+  <rect width="1600" height="900" fill="#FFF6F6"/>
+  <text class="h" x="120" y="270">Сразу после урока</text>
+  <text class="sub" x="120" y="340">Разберите 5 типовых возражений вашей команды по одной и той же карте.</text>
+  <text class="sub" x="120" y="390">Одинаковый ответ на разные причины почти всегда ослабляет сделку.</text>
+</svg>

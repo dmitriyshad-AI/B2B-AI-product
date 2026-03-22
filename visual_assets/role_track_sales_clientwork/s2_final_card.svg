@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #231F2C; }
+    .h { font-size: 44px; font-weight: 700; }
+    .sub { font-size: 24px; fill: #6B676F; }
+  </style>
+  <rect width="1600" height="900" fill="#FFF8F3"/>
+  <text class="h" x="120" y="270">Сразу после урока</text>
+  <text class="sub" x="120" y="340">Возьмите одну реальную встречу и соберите письмо по итогам в тот же день.</text>
+  <text class="sub" x="120" y="390">Если следующий шаг размыт, сделка начинает остывать.</text>
+</svg>

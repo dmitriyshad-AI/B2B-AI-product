@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI в работе — практический курс</title>
+  <style>
+    :root {
+      --bg: #f5f2ea;
+      --paper: #fffdf8;
+      --ink: #18212b;
+      --muted: #5b6771;
+      --line: #d8d0c1;
+      --accent: #135f58;
+      --accent-soft: #e3f1ef;
+      --gold: #9e6b1f;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Arial, sans-serif; color: var(--ink); background: linear-gradient(180deg, #efe9dc 0%, #f8f5ef 100%); }
+    .wrap { max-width: 1180px; margin: 0 auto; padding: 32px 24px 72px; }
+    .hero, .section, .pricing { background: var(--paper); border: 1px solid var(--line); border-radius: 28px; padding: 36px; margin-bottom: 22px; }
+    h1, h2, h3 { margin: 0 0 16px; line-height: 1.08; }
+    h1 { font-size: 56px; max-width: 900px; }
+    h2 { font-size: 34px; }
+    h3 { font-size: 22px; }
+    p, li { font-size: 18px; line-height: 1.55; color: var(--muted); }
+    .hero p { max-width: 820px; font-size: 22px; }
+    .buttons { display: flex; gap: 14px; margin-top: 26px; flex-wrap: wrap; }
+    .btn { display: inline-block; padding: 14px 22px; border-radius: 999px; text-decoration: none; font-weight: 700; }
+    .btn.primary { background: var(--accent); color: #fff; }
+    .btn.secondary { background: var(--accent-soft); color: var(--accent); }
+    .proof { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-top: 30px; }
+    .proof div, .card, .price-card { border: 1px solid var(--line); border-radius: 20px; padding: 18px; background: #fff; }
+    .proof strong { display: block; font-size: 28px; margin-bottom: 6px; color: var(--accent); }
+    .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+    .cards { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; }
+    .pricing-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+    .price { font-size: 34px; font-weight: 700; color: var(--accent); margin: 8px 0 14px; }
+    .tag { display: inline-block; padding: 8px 12px; border-radius: 999px; background: #f3e8d5; color: var(--gold); font-weight: 700; font-size: 14px; margin-bottom: 14px; }
+    ul { margin: 0; padding-left: 20px; }
+    .footer-cta { text-align: center; }
+    .faq-item { border-top: 1px solid var(--line); padding-top: 16px; margin-top: 16px; }
+    @media (max-width: 980px) {
+      .proof, .grid, .cards, .pricing-grid { grid-template-columns: 1fr; }
+      h1 { font-size: 40px; }
+      .hero p { font-size: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="tag">Практический курс по AI для работы</div>
+      <h1>AI в работе: практический курс для специалистов и руководителей</h1>
+      <p>За 2-4 недели вы выбираете 3-5 рабочих сценариев, собираете 8-10 шаблонов, делаете один mini-project на своей задаче и получаете план внедрения на 14 дней.</p>
+      <div class="buttons">
+        <a class="btn primary" href="#pricing">Выбрать тариф</a>
+        <a class="btn secondary" href="#program">Посмотреть программу</a>
+      </div>
+      <div class="proof">
+        <div><strong>24</strong>урока</div>
+        <div><strong>5</strong>практических домашних</div>
+        <div><strong>1</strong>mini-project на вашей задаче</div>
+        <div><strong>Session 0</strong>с первая практическая победа в самом начале</div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Для кого этот курс</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Подходит</h3>
+          <ul>
+            <li>офисным специалистам;</li>
+            <li>руководителям и team leads;</li>
+            <li>предпринимателям;</li>
+            <li>тем, кто уже пробовал ChatGPT, но не превратил это в повторяемый рабочий процесс.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Не подходит</h3>
+          <ul>
+            <li>тем, кто ищет обучение по ML и разработке моделей;</li>
+            <li>тем, кто хочет только “волшебный набор prompt'ов” без собственной практики.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Что останется у вас после курса</h2>
+      <div class="cards">
+        <div class="card"><h3>3-5 сценариев</h3><p>Где AI реально помогает именно в вашей работе.</p></div>
+        <div class="card"><h3>8-10 шаблонов</h3><p>Запросы и рабочие заготовки для повторного использования.</p></div>
+        <div class="card"><h3>Checklist проверки</h3><p>Чтобы не копировать AI-ответ вслепую.</p></div>
+        <div class="card"><h3>Mini-project</h3><p>Один законченный пример на реальной задаче.</p></div>
+        <div class="card"><h3>14-дневный план</h3><p>Понятный следующий шаг после курса.</p></div>
+      </div>
+    </section>
+
+    <section class="section" id="program">
+      <h2>Что внутри курса</h2>
+      <div class="grid">
+        <div class="card"><h3>Session 0</h3><p>Входная диагностика, baseline и первый полезный результат.</p></div>
+        <div class="card"><h3>Модуль 1</h3><p>Где AI реально полезен, а где лучше не начинать.</p></div>
+        <div class="card"><h3>Модуль 2</h3><p>Как ставить задачу AI так, чтобы получать сильный черновик.</p></div>
+        <div class="card"><h3>Модуль 3</h3><p>Как проверять, дорабатывать и не доверять ответу только из-за уверенного тона.</p></div>
+        <div class="card"><h3>Модули 4-5</h3><p>Как собрать свои сценарии, шаблоны, mini-project и план внедрения.</p></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Почему это не очередной обзорный курс</h2>
+      <p>Здесь не объясняют AI в общих словах. Здесь учат проходить полный рабочий цикл: задача, запрос, черновик, проверка, доработка и повторное применение.</p>
+      <p>Курс измеряется не просмотром уроков, а тем, появились ли у вас рабочие сценарии, шаблоны и один завершенный пример, который можно использовать уже на следующей неделе.</p>
+    </section>
+
+    <section class="pricing" id="pricing">
+      <h2>Тарифы</h2>
+      <div class="pricing-grid">
+        <div class="price-card">
+          <div class="tag">Самостоятельно</div>
+          <h3>Autonomous</h3>
+          <div class="price">24 900 ₽</div>
+          <p>Весь базовый модуль, шаблоны, rubric и mini-project.</p>
+        </div>
+        <div class="price-card">
+          <div class="tag">Рекомендуем</div>
+          <h3>Practice</h3>
+          <div class="price">49 900 ₽</div>
+          <p>Все из Autonomous, проверка домашних 1, 2, 3 и 5, проверка mini-project и групповая Q&amp;A.</p>
+        </div>
+        <div class="price-card">
+          <div class="tag">С разбором под вас</div>
+          <h3>VIP</h3>
+          <div class="price">119 000 ₽</div>
+          <p>Все из Practice, 3 персональные сессии, personal rollout board и приоритетная проверка.</p>
+        </div>
+      </div>
+      <p><strong>Лучший баланс цены и вероятности дойти до результата — тариф Practice.</strong></p>
+    </section>
+
+    <section class="section">
+      <h2>Честное обещание</h2>
+      <p>Мы не обещаем, что AI заменит вашу профессию или автоматически увеличит доход.</p>
+      <p>Мы обещаем, что при прохождении курса у вас останутся несколько рабочих сценариев, набор шаблонов, checklist проверки, mini-project и 14-дневный план внедрения.</p>
+    </section>
+
+    <section class="section">
+      <h2>FAQ</h2>
+      <div class="faq-item">
+        <h3>Это для новичков или для тех, кто уже пробовал AI?</h3>
+        <p>Для обоих. Новичок получает понятный старт. Тот, кто уже пробовал AI, получает не хаотичный опыт, а повторяемые рабочие сценарии.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Это курс для программистов?</h3>
+        <p>Нет. Это курс для специалистов, менеджеров и предпринимателей, которые работают с информацией и коммуникацией.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Сколько времени нужно в неделю?</h3>
+        <p>Обычно 3-4 часа в неделю: короткие сессии по 30-45 минут плюс время на домашние задания.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Что останется после курса?</h3>
+        <p>Ваши сценарии, ваши шаблоны, ваш checklist, ваш mini-project и ваш план внедрения на 14 дней.</p>
+      </div>
+    </section>
+
+    <section class="hero footer-cta">
+      <h2>Если вам нужны не разговоры про AI, а 3-5 повторяемых сценариев для повседневных задач</h2>
+      <div class="buttons" style="justify-content:center">
+        <a class="btn primary" href="#pricing">Выбрать тариф и стартовать</a>
+      </div>
+    </section>
+  </div>
+</body>
+</html>

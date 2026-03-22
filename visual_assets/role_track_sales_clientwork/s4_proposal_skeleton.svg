@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #182224; }
+    .h { font-size: 40px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #5E6B6C; }
+    .box { font-size: 20px; font-weight: 700; fill: #4F6316; }
+  </style>
+  <rect width="1600" height="900" fill="#F8FBF2"/>
+  <text class="h" x="120" y="110">Скелет коммерческого предложения</text>
+  <text class="sub" x="120" y="150">Быстрый первый черновик без пустых обещаний.</text>
+  <rect x="120" y="220" width="1360" height="470" rx="24" fill="#FFFFFF" stroke="#D7E6BC" stroke-width="2"/>
+  <rect x="150" y="260" width="380" height="140" rx="18" fill="#F2F8E7"/><text class="box" x="180" y="325">Задача клиента</text>
+  <rect x="560" y="260" width="380" height="140" rx="18" fill="#F2F8E7"/><text class="box" x="590" y="325">Контекст</text>
+  <rect x="970" y="260" width="380" height="140" rx="18" fill="#F2F8E7"/><text class="box" x="1000" y="325">Решение</text>
+  <rect x="150" y="440" width="380" height="140" rx="18" fill="#F2F8E7"/><text class="box" x="180" y="505">Объем</text>
+  <rect x="560" y="440" width="380" height="140" rx="18" fill="#F2F8E7"/><text class="box" x="590" y="505">Ограничения</text>
+  <rect x="970" y="440" width="380" height="140" rx="18" fill="#F2F8E7"/><text class="box" x="1000" y="505">Следующий шаг</text>
+</svg>

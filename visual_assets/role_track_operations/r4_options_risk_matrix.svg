@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .h { font-size: 42px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #57636E; }
+    .th { font-size: 18px; font-weight: 700; fill: #4C641A; }
+    .td { font-size: 17px; fill: #394651; }
+  </style>
+  <rect width="1600" height="900" fill="#F8FBF2"/>
+  <text class="h" x="120" y="120">Options and risk memo на одном экране</text>
+  <text class="sub" x="120" y="158">Сначала карта мышления, потом решение человека.</text>
+  <rect x="120" y="220" width="1360" height="500" rx="24" fill="#FFFFFF" stroke="#D6E6BB" stroke-width="2"/>
+  <g>
+    <rect x="140" y="250" width="1320" height="56" fill="#F2F8E6"/>
+    <text class="th" x="164" y="286">Option</text>
+    <text class="th" x="358" y="286">Benefit</text>
+    <text class="th" x="568" y="286">Cost</text>
+    <text class="th" x="756" y="286">Risk</text>
+    <text class="th" x="938" y="286">Mitigation</text>
+    <text class="th" x="1170" y="286">Fit</text>
+    <line x1="320" y1="250" x2="320" y2="700" stroke="#DCE8C9"/>
+    <line x1="530" y1="250" x2="530" y2="700" stroke="#DCE8C9"/>
+    <line x1="720" y1="250" x2="720" y2="700" stroke="#DCE8C9"/>
+    <line x1="900" y1="250" x2="900" y2="700" stroke="#DCE8C9"/>
+    <line x1="1130" y1="250" x2="1130" y2="700" stroke="#DCE8C9"/>
+    <line x1="140" y1="380" x2="1460" y2="380" stroke="#DCE8C9"/>
+    <line x1="140" y1="520" x2="1460" y2="520" stroke="#DCE8C9"/>
+    <text class="td" x="164" y="340">Больше синков</text>
+    <text class="td" x="164" y="470">База знаний и шаблоны</text>
+    <text class="td" x="164" y="610">Короткий blended-подход</text>
+  </g>
+</svg>

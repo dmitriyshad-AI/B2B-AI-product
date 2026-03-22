@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .h { font-size: 42px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #57636E; }
+    .panelt { font-size: 28px; font-weight: 700; }
+    .body { font-size: 20px; fill: #394651; }
+    .cap { font-size: 18px; font-weight: 700; fill: #7C4C0A; }
+  </style>
+  <rect width="1600" height="900" fill="#FBF8F2"/>
+  <text class="h" x="120" y="120">Много текста против управленческого сигнала</text>
+  <text class="sub" x="120" y="158">Один и тот же проектный апдейт можно сделать либо шумным, либо читаемым за 20 секунд.</text>
+  <rect x="120" y="210" width="610" height="520" rx="28" fill="#FFF4F1" stroke="#E9C4BC" stroke-width="2"/>
+  <text class="panelt" x="160" y="270">До: длинный пересказ</text>
+  <text class="body" x="160" y="330">- 4 направления смешаны в одном тексте</text>
+  <text class="body" x="160" y="370">- 2 риска утонули в деталях</text>
+  <text class="body" x="160" y="410">- сдвиг срока заметен слишком поздно</text>
+  <rect x="160" y="460" width="530" height="210" rx="18" fill="#FFFDF9" stroke="#E1D5CF"/>
+  <text class="body" x="185" y="505">"По проекту в целом работа продолжается.</text>
+  <text class="body" x="185" y="540">Команда движется по нескольким направлениям,</text>
+  <text class="body" x="185" y="575">есть отдельные сложности, которые сейчас</text>
+  <text class="body" x="185" y="610">уточняются, и часть сроков, вероятно,</text>
+  <text class="body" x="185" y="645">придется пересмотреть..."</text>
+  <rect x="870" y="210" width="610" height="520" rx="28" fill="#F1FAF7" stroke="#BBDCD0" stroke-width="2"/>
+  <text class="panelt" x="910" y="270">После: signal-first update</text>
+  <rect x="910" y="320" width="530" height="62" rx="16" fill="#FFFFFF" stroke="#D5E7DF"/>
+  <text class="cap" x="936" y="358">Progress</text>
+  <rect x="910" y="398" width="530" height="62" rx="16" fill="#FFFFFF" stroke="#D5E7DF"/>
+  <text class="cap" x="936" y="436">Risks</text>
+  <rect x="910" y="476" width="530" height="62" rx="16" fill="#FFFFFF" stroke="#D5E7DF"/>
+  <text class="cap" x="936" y="514">Slippage</text>
+  <rect x="910" y="554" width="530" height="62" rx="16" fill="#FFFFFF" stroke="#D5E7DF"/>
+  <text class="cap" x="936" y="592">Next steps</text>
+  <rect x="910" y="632" width="530" height="62" rx="16" fill="#FFFFFF" stroke="#D5E7DF"/>
+  <text class="cap" x="936" y="670">Attention needed</text>
+  <text class="sub" x="910" y="772">Руководитель понимает состояние проекта за 20 секунд</text>
+</svg>

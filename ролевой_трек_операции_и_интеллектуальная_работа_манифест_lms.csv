@@ -1,0 +1,7 @@
+item_id,section,order,title,item_type,downloadable_id,completion_rule
+rt_r1,R1,1,"Разложить запуск в управляемую структуру",lesson,rt-ops-task-breakdown-canvas,"view+self_check"
+rt_r2,R2,2,"Делать статус-апдейты и рабочие документы без шума",lesson,rt-ops-status-update-template,"view+self_check"
+rt_r3,R3,3,"Готовиться к встречам и фиксировать follow-up",lesson,rt-ops-meeting-prep-follow-up-kit,"view+self_check"
+rt_r4,R4,4,"Сравнивать варианты и риски без самообмана",lesson,rt-ops-options-risk-memo,"view+self_check"
+rt_r5,R5,5,"Собрать личный операционный AI-pipeline",lesson,rt-ops-personal-pipeline-canvas,"view+self_check"
+rt_project,RT-project,6,"Итоговый мини-проект ролевого трека",assignment,none,"submission_required"

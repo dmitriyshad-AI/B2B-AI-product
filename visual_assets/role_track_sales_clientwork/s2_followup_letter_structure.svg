@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #231F2C; }
+    .h { font-size: 40px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #6B676F; }
+    .box { font-size: 22px; font-weight: 700; }
+  </style>
+  <rect width="1600" height="900" fill="#FFF8F3"/>
+  <text class="h" x="120" y="110">Структура письма по итогам встречи</text>
+  <text class="sub" x="120" y="150">Письмо фиксирует движение сделки в тот же день.</text>
+  <rect x="120" y="230" width="220" height="360" rx="24" fill="#FFFFFF" stroke="#F0D8C6" stroke-width="2"/>
+  <rect x="380" y="230" width="220" height="360" rx="24" fill="#FFFFFF" stroke="#F0D8C6" stroke-width="2"/>
+  <rect x="640" y="230" width="220" height="360" rx="24" fill="#FFFFFF" stroke="#F0D8C6" stroke-width="2"/>
+  <rect x="900" y="230" width="220" height="360" rx="24" fill="#FFFFFF" stroke="#F0D8C6" stroke-width="2"/>
+  <rect x="1160" y="230" width="220" height="360" rx="24" fill="#FFFFFF" stroke="#F0D8C6" stroke-width="2"/>
+  <text class="box" x="150" y="290">Контекст</text>
+  <text class="box" x="415" y="290">Что обсудили</text>
+  <text class="box" x="680" y="290">Что обещали</text>
+  <text class="box" x="935" y="290">Следующий шаг</text>
+  <text class="box" x="1235" y="290">Срок</text>
+</svg>

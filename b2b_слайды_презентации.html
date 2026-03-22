@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>B2B Pitch Deck — AI pilot для команды</title>
+  <style>
+    :root {
+      --bg: #eef2f4;
+      --paper: #fff;
+      --ink: #16212a;
+      --muted: #586572;
+      --line: #d7dee4;
+      --accent: #0e5d57;
+      --accent-soft: #e4f2f0;
+      --warn: #f6ead4;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Arial, sans-serif; background: var(--bg); color: var(--ink); }
+    .deck { max-width: 1160px; margin: 0 auto; padding: 30px 20px 60px; }
+    .slide { background: var(--paper); border: 1px solid var(--line); border-radius: 28px; padding: 32px; margin-bottom: 22px; }
+    .num { display: inline-block; padding: 8px 12px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-weight: 700; margin-bottom: 16px; }
+    h1, h2, h3 { margin: 0 0 14px; }
+    h1 { font-size: 42px; }
+    h2 { font-size: 30px; }
+    h3 { font-size: 20px; }
+    p, li { color: var(--muted); font-size: 18px; line-height: 1.55; }
+    ul { margin: 0; padding-left: 22px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .card { border: 1px solid var(--line); border-radius: 20px; padding: 18px; background: #fff; }
+    .proof { background: #faf7f1; border-color: #e8dcc7; }
+    .cta { background: linear-gradient(135deg, #f8fafb 0%, #eef7f5 100%); }
+    .metric-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+    .metric { border: 1px solid var(--line); border-radius: 18px; padding: 16px; background: #fff; }
+    .metric strong { display: block; font-size: 30px; color: var(--accent); margin-bottom: 8px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+    th, td { border: 1px solid var(--line); padding: 12px; text-align: left; vertical-align: top; }
+    th { background: #f7fafb; }
+    @media (max-width: 980px) {
+      .grid, .metric-grid { grid-template-columns: 1fr; }
+      h1 { font-size: 34px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="deck">
+    <section class="slide">
+      <div class="num">Слайд 1</div>
+      <h1>AI уже используется, но компания не управляет этим как системой</h1>
+      <ul>
+        <li>Сотрудники уже пробуют AI в письмах, встречах, документах и ресерче.</li>
+        <li>Компания не видит единый сценарий, правила и owner.</li>
+        <li>Возникает хаос без измеримого эффекта.</li>
+      </ul>
+    </section>
+
+    <section class="slide">
+      <div class="num">Слайд 2</div>
+      <h2>Почему стандартные решения не работают</h2>
+      <div class="grid">
+        <div class="card"><h3>Что не работает</h3><ul><li>Разовый вебинар.</li><li>“Просто дайте доступ”.</li><li>Сразу весь rollout на всю компанию.</li></ul></div>
+        <div class="card proof"><h3>Почему</h3><ul><li>Awareness без repeatable use.</li><li>Хаос масштабируется быстрее, чем польза.</li><li>Без owner и общего сценария пилот разваливается.</li></ul></div>
+      </div>
+    </section>
+
+    <section class="slide">
+      <div class="num">Слайд 3</div>
+      <h2>Что именно мы продаем</h2>
+      <p><strong>14-дневный управляемый AI pilot</strong> для одной команды или функции.</p>
+      <div class="grid">
+        <div class="card"><h3>На выходе у группы</h3><ul><li>первая практическая победаs;</li><li>repeatable scenario;</li><li>общий шаблон;</li><li>общий checklist.</li></ul></div>
+        <div class="card"><h3>На выходе у руководителя</h3><ul><li>pilot report;</li><li>decision: scale / improve / narrow / stop.</li></ul></div>
+      </div>
+    </section>
+
+    <section class="slide">
+      <div class="num">Слайд 4</div>
+      <h2>Первая волна только на безопасный для пилота сценариях</h2>
+      <div class="grid">
+        <div class="card"><h3>Green zone</h3><p>Черновики писем, summary обезличенных документов, prep к встречам, внутренние черновики, первичный research.</p></div>
+        <div class="card"><h3>Red zone</h3><p>Персональные данные, финальные договоры, финансовые выводы без проверки, конфиденциальные документы без policy.</p></div>
+      </div>
+    </section>
+
+    <section class="slide">
+      <div class="num">Слайд 5</div>
+      <h2>Scope пилота: одна команда, один owner, один общий сценарий</h2>
+      <table>
+        <tr><th>Период</th><th>Что происходит</th></tr>
+        <tr><td>До старта</td><td>Scoping, owner alignment, rules setup</td></tr>
+        <tr><td>День 1-2</td><td>Session 0 и первая практическая победа</td></tr>
+        <tr><td>День 3-9</td><td>базовый модуль, use-case map, первые шаблоны</td></tr>
+        <tr><td>День 10-19</td><td>Shared artifacts, final review, pilot report</td></tr>
+      </table>
+    </section>
+
+    <section class="slide">
+      <div class="num">Слайд 6</div>
+      <h2>Что получает пилотная группа</h2>
+      <div class="grid">
+        <div class="card"><h3>Быстро</h3><p>Первая практическая победа в первые 1-2 дня.</p></div>
+        <div class="card"><h3>Повторяемо</h3><p>1+ рабочий сценарий, который можно применять дальше.</p></div>
+        <div class="card"><h3>Осязаемо</h3><p>Общий шаблон и общий checklist.</p></div>
+        <div class="card"><h3>Доказуемо</h3><p>Mini-projects вместо “просто посмотрели уроки”.</p></div>
+      </div>
+    </section>
+
+    <section class="slide">
+      <div class="num">Слайд 7</div>
+      <h2>Что получает руководитель</h2>
+      <ul>
+        <li>карта из 3-5 pilot-ready сценариев;</li>
+        <li>pilot plan на 14 дней: owner, cohort, checkpoints;</li>
+        <li>effect scorecard с green / yellow / red сигналами;</li>
+        <li>memo по следующему шагу: scale / improve / narrow / stop.</li>
+      </ul>
+    </section>
+
+    <section class="slide">
+      <div class="num">Слайд 8</div>
+      <h2>Что получает компания</h2>
+      <ul>
+        <li>обученную пилотную группу с видимым activation;</li>
+        <li>1 общий сценарий, 1 общий шаблон, 1 общий чек-лист;</li>
+        <li>готовый для владельца pilot report без натяжки;</li>
+        <li>для Core Rollout: 3-5 approved сценарии использования, правила команды и план следующей волны.</li>
+      </ul>
+    </section>
+
+    <section class="slide">
+      <div class="num">Слайд 9</div>
+      <h2>Как мы считаем успех</h2>
+      <div class="metric-grid">
+        <div class="metric"><strong>75%</strong>Session 0 completion</div>
+        <div class="metric"><strong>65%</strong>первая практическая победа rate</div>
+        <div class="metric"><strong>50%</strong>repeatable scenario rate</div>
+        <div class="metric"><strong>45%</strong>mini-project completion</div>
+      </div>
+      <p>Для B2B сильный пилот невозможен без общего сценария, общего шаблона, общего checklist и готовый для владельца отчета.</p>
+    </section>
+
+    <section class="slide">
+      <div class="num">Слайд 10</div>
+      <h2>Пакеты и цена</h2>
+      <table>
+        <tr><th>Пакет</th><th>Цена</th><th>Группа</th><th>Что получает клиент</th></tr>
+        <tr><td>Mini-Pilot</td><td>390 000 ₽</td><td>до 15</td><td>Первый безопасный вход, 1 общий сценарий, шаблон, checklist и отчет</td></tr>
+        <tr><td>Pilot Plus</td><td>690 000 ₽</td><td>до 25</td><td>Все из Mini-Pilot + manager layer и карта сценариев 3-5 сценарии использования</td></tr>
+        <tr><td>Core Rollout</td><td>1 490 000 ₽</td><td>до 50</td><td>Все из Pilot Plus + правила команды, approved сценарии использования и план следующей волны</td></tr>
+      </table>
+    </section>
+
+    <section class="slide cta">
+      <div class="num">Слайд 11</div>
+      <h2>Следующий шаг</h2>
+      <ol>
+        <li>Подтвердить owner со стороны бизнеса.</li>
+        <li>Зафиксировать pilot group в пределах выбранного пакета.</li>
+        <li>Выбрать один общий сценарий или shortlist для отбора.</li>
+        <li>Подтвердить kickoff window.</li>
+      </ol>
+      <p><strong>Этот deck должен заканчиваться не обсуждением AI, а решением запускать или не запускать pilot.</strong></p>
+    </section>
+  </div>
+</body>
+</html>

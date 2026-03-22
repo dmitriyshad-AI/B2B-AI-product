@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .h { font-size: 42px; font-weight: 700; }
+    .sub { font-size: 22px; fill: #57636E; }
+    .th { font-size: 18px; font-weight: 700; fill: #2E4E7D; }
+    .td { font-size: 17px; fill: #394651; }
+  </style>
+  <rect width="1600" height="900" fill="#F3F6FB"/>
+  <text class="h" x="120" y="120">Личная система из трех повторяющихся процессов</text>
+  <text class="sub" x="120" y="158">Повторяемый процесс важнее разового удачного промпта.</text>
+  <rect x="120" y="220" width="1360" height="520" rx="24" fill="#FFFFFF" stroke="#D5DFF1" stroke-width="2"/>
+  <rect x="140" y="250" width="1320" height="56" fill="#EAF0FA"/>
+  <text class="th" x="162" y="286">Процесс</text>
+  <text class="th" x="330" y="286">Input</text>
+  <text class="th" x="500" y="286">Prompt pattern</text>
+  <text class="th" x="730" y="286">Quality gate</text>
+  <text class="th" x="940" y="286">Output</text>
+  <text class="th" x="1095" y="286">Storage</text>
+  <text class="th" x="1260" y="286">Reuse</text>
+  <line x1="300" y1="250" x2="300" y2="720" stroke="#D9E1EE"/>
+  <line x1="470" y1="250" x2="470" y2="720" stroke="#D9E1EE"/>
+  <line x1="700" y1="250" x2="700" y2="720" stroke="#D9E1EE"/>
+  <line x1="910" y1="250" x2="910" y2="720" stroke="#D9E1EE"/>
+  <line x1="1065" y1="250" x2="1065" y2="720" stroke="#D9E1EE"/>
+  <line x1="1230" y1="250" x2="1230" y2="720" stroke="#D9E1EE"/>
+  <line x1="140" y1="400" x2="1460" y2="400" stroke="#D9E1EE"/>
+  <line x1="140" y1="550" x2="1460" y2="550" stroke="#D9E1EE"/>
+  <text class="td" x="162" y="350">Встречи</text>
+  <text class="td" x="162" y="500">Статус-апдейты</text>
+  <text class="td" x="162" y="650">Summary / записки</text>
+  <text class="sub" x="120" y="792">Личная система становится основой командной библиотеки и следующего этапа внедрения</text>
+</svg>

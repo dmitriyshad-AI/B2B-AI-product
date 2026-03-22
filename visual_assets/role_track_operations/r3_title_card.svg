@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="r3bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2EEE7"/>
+      <stop offset="1" stop-color="#EEF7F5"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .eyebrow { font-size: 24px; font-weight: 700; letter-spacing: 1.4px; fill: #0F6A63; }
+    .title { font-size: 60px; font-weight: 700; }
+    .subtitle { font-size: 28px; fill: #4B5B68; }
+    .formula { font-size: 28px; font-weight: 700; fill: #0A5C56; }
+    .chip { font-size: 22px; font-weight: 600; fill: #0A5C56; }
+  </style>
+  <rect width="1600" height="900" fill="url(#r3bg)"/>
+  <rect x="96" y="94" width="1408" height="712" rx="38" fill="#FFFDF9" stroke="#D6E5E2" stroke-width="2"/>
+  <rect x="128" y="128" width="170" height="38" rx="19" fill="#DFF2EF"/>
+  <text class="eyebrow" x="144" y="154">ROLE TRACK / MODULE R3</text>
+  <text class="title" x="128" y="270">Готовиться к встречам</text>
+  <text class="title" x="128" y="346">и фиксировать follow-up</text>
+  <text class="subtitle" x="128" y="412">Созвон должен заканчиваться решением, а не воспоминанием</text>
+  <rect x="128" y="490" width="1240" height="110" rx="28" fill="#E8F6F3" stroke="#B9DDD7" stroke-width="2"/>
+  <text class="formula" x="164" y="556">Context -&gt; Tensions -&gt; Questions -&gt; Decisions -&gt; Owners -&gt; Deadlines</text>
+  <rect x="128" y="648" width="330" height="64" rx="22" fill="#FFFDF9" stroke="#0F766E" stroke-width="2"/>
+  <rect x="484" y="648" width="460" height="64" rx="22" fill="#FFFDF9" stroke="#0F766E" stroke-width="2"/>
+  <text class="chip" x="156" y="688">Кейс: RT-OPS-CASE-03</text>
+  <text class="chip" x="512" y="688">Артефакт: meeting prep + follow-up kit</text>
+</svg>

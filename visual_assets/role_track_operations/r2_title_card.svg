@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="r2bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F2E8"/>
+      <stop offset="1" stop-color="#EAF1FA"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #16202A; }
+    .eyebrow { font-size: 24px; font-weight: 700; letter-spacing: 1.4px; fill: #8A5A12; }
+    .title { font-size: 60px; font-weight: 700; }
+    .subtitle { font-size: 28px; fill: #4B5B68; }
+    .formula { font-size: 28px; font-weight: 700; fill: #7C4C0A; }
+    .chip { font-size: 22px; font-weight: 600; fill: #7C4C0A; }
+    .small { font-size: 18px; fill: #66737F; }
+  </style>
+  <rect width="1600" height="900" fill="url(#r2bg)"/>
+  <circle cx="1330" cy="170" r="180" fill="#C88A28" fill-opacity="0.08"/>
+  <circle cx="220" cy="760" r="220" fill="#C88A28" fill-opacity="0.06"/>
+  <rect x="96" y="94" width="1408" height="712" rx="38" fill="#FFFDF9" stroke="#E7DEC7" stroke-width="2"/>
+  <rect x="128" y="128" width="170" height="38" rx="19" fill="#F7E8C9"/>
+  <text class="eyebrow" x="144" y="154">ROLE TRACK / MODULE R2</text>
+  <text class="title" x="128" y="270">Делать статус-апдейты</text>
+  <text class="title" x="128" y="346">и рабочие документы без шума</text>
+  <text class="subtitle" x="128" y="412">Signal-first update вместо длинного пересказа</text>
+  <rect x="128" y="490" width="1180" height="110" rx="28" fill="#FFF4DD" stroke="#E9D0A0" stroke-width="2"/>
+  <text class="formula" x="164" y="556">Progress -&gt; Risks -&gt; Slippage -&gt; Next steps -&gt; Attention needed</text>
+  <rect x="128" y="648" width="330" height="64" rx="22" fill="#FFFDF9" stroke="#C88A28" stroke-width="2"/>
+  <rect x="484" y="648" width="390" height="64" rx="22" fill="#FFFDF9" stroke="#C88A28" stroke-width="2"/>
+  <text class="chip" x="156" y="688">Кейс: RT-OPS-CASE-02</text>
+  <text class="chip" x="512" y="688">Артефакт: status update template</text>
+  <text class="small" x="128" y="758">Operations / Project / Knowledge Work</text>
+</svg>

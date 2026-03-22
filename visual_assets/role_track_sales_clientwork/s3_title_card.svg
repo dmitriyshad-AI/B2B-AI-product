@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <style>
+    text { font-family: "IBM Plex Sans", "Arial", sans-serif; fill: #2A1B1C; }
+    .eyebrow { font-size: 24px; font-weight: 600; fill: #9E4047; }
+    .h { font-size: 52px; font-weight: 700; }
+    .sub { font-size: 24px; fill: #736264; }
+  </style>
+  <rect width="1600" height="900" fill="#FFF6F6"/>
+  <text class="eyebrow" x="120" y="170">Модуль S3</text>
+  <text class="h" x="120" y="270">Ответы на возражения</text>
+  <text class="sub" x="120" y="330">Не давим, а проясняем реальную причину торможения.</text>
+</svg>
